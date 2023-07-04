@@ -4,5 +4,5 @@
 ####
 #### Tela de programa:
 ####
-![alt text]("https://github.com/Gedionir/lista_pares_impares/blob/ab3a726b42b70c818ef20a92f6b15a6d9c09a70c/exemplo_lista.jpg")
+![alt text]("https://github.com/Gedionir/lista_pares_impares/blob/ab3a726b42b70c818ef20a92f6b15a6d9c09a70c/exemplo_lista.jpg?raw=true")
 ####
